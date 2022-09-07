@@ -33,7 +33,7 @@ const MyApi = () => {
    if(!buscador)
    {
        resultados = aves
-   //} else if(ordenamiento()==){}
+
     } else{
         resultados = aves.filter( (aveFiltro) =>
         aveFiltro.name.spanish.toLowerCase().includes(buscador.toLocaleLowerCase())
@@ -50,10 +50,7 @@ const MyApi = () => {
              return(resultados)
      }
   
-    /*  const ordenamientoAves = (mostrarData) => { 
-      ordenamientoAves.sort(mostrarData)
-
-    };   */ 
+   
 
     useEffect(() => {
   

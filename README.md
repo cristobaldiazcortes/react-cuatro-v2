@@ -1,3 +1,9 @@
+
+Link deploy React: https://react-cuatro-v2.vercel.app/
+
+link prueba: https://youtu.be/CdqUlIVNmGg
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
